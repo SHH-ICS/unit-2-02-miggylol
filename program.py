@@ -3,3 +3,7 @@
 
 def myFunction():
   # My Function
+  while True:
+    print ("helloword")
+
+myFunction()
